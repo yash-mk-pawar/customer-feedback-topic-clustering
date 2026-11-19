@@ -45,7 +45,7 @@ customer_feedback_clustering/
 
 ### 1. Clone the Repository & Install Dependencies
 ```bash
-git clone https://github.com/<your-username>/customer-feedback-clustering.git
+git clone https://github.com/yash-mk-pawar/customer-feedback-clustering.git
 cd customer-feedback-clustering
 pip install -r requirements.txt
 ```
